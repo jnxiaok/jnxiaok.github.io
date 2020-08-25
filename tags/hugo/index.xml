@@ -1,15 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>小凯的博客</title>
-		<link>https://jnxiaok.github.io/</link>
-		<description>Recent content on 小凯的博客</description>
+		<title>hugo on 小凯的博客</title>
+		<link>https://jnxiaok.github.io/tags/hugo/</link>
+		<description>Recent content in hugo on 小凯的博客</description>
 		<generator>Hugo 0.69.0 -- gohugo.io</generator>
 		<language>en</language>
 		<managingEditor>jiangkuan@inpsur.org (Jiang Kuan)</managingEditor>
 		<webMaster>jiangkuan@inpsur.org (Jiang Kuan)</webMaster>
 		<copyright>Jiang Kuan — All rights reserved.</copyright>
 		<lastBuildDate>Thu, 23 Nov 2017 23:42:05 +0100</lastBuildDate>
-		<atom:link href="https://jnxiaok.github.io/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://jnxiaok.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>About Hugo</title>
 			<link>https://jnxiaok.github.io/about/</link>

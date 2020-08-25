@@ -1,10 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on My New Hugo Site</title>
-		<link>http://example.org/tags/</link>
-		<description>Recent content in Tags on My New Hugo Site</description>
+		<title>Tags on 小凯的博客</title>
+		<link>https://jnxiaok.github.io/tags/</link>
+		<description>Recent content in Tags on 小凯的博客</description>
 		<generator>Hugo 0.69.0 -- gohugo.io</generator>
-		<language>en-us</language>
-		<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+		<language>en</language>
+		<managingEditor>jiangkuan@inpsur.org (Jiang Kuan)</managingEditor>
+		<webMaster>jiangkuan@inpsur.org (Jiang Kuan)</webMaster>
+		<copyright>Jiang Kuan — All rights reserved.</copyright>
+		<lastBuildDate>Thu, 23 Nov 2017 23:42:05 +0100</lastBuildDate>
+		<atom:link href="https://jnxiaok.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on 小凯的博客</title>
-		<link>https://jnxiaok.github.io/categories/</link>
-		<description>Recent content in Categories on 小凯的博客</description>
+		<title>Series on 小凯的博客</title>
+		<link>https://jnxiaok.github.io/series/</link>
+		<description>Recent content in Series on 小凯的博客</description>
 		<generator>Hugo 0.69.0 -- gohugo.io</generator>
 		<language>en</language>
 		<managingEditor>jiangkuan@inpsur.org (Jiang Kuan)</managingEditor>
 		<webMaster>jiangkuan@inpsur.org (Jiang Kuan)</webMaster>
 		<copyright>Jiang Kuan — All rights reserved.</copyright>
 		<lastBuildDate>Wed, 02 Apr 2014 23:42:05 +0100</lastBuildDate>
-		<atom:link href="https://jnxiaok.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://jnxiaok.github.io/series/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
